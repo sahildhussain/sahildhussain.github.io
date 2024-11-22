@@ -5,7 +5,7 @@ Proficient in front-end and back-end technologies, delivering high-quality solut
 
 ### Markdown
 
-**Senior Software Developer (Full-stack Developer)| Oracle India Pvt Ltd | Sept'2021 - present**
+**Senior Software Developer (Full-stack Developer)| Oracle India Pvt Ltd | Sept'2021 - present**      
 [Oracle Guided Learning - Onboarding and Digital Adoption Platform](https://www.oracle.com/education/guided-learning/)
 - Developed interactive web application using Angular and Django, ensuring high performance and scalability.
 - Implemented and optimised APIs upto 70% in Django framework.
