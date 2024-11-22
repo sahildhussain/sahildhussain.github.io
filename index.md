@@ -1,37 +1,50 @@
 ## Sahil Hussain
 
-You can use the [editor on GitHub](https://github.com/sahildhussain/sahildhussain.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced Full Stack Developer with a proven record of building robust and user-friendly web applications. 
+Proficient in front-end and back-end technologies, delivering high-quality solutions that exceed client expectations.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Senior Software Developer (Full-stack Developer)| Oracle India Pvt Ltd | Sept'2021 - present**
+[Oracle Guided Learning - Onboarding and Digital Adoption Platform](https://www.oracle.com/education/guided-learning/)
+- Developed interactive web application using Angular and Django, ensuring high performance and scalability.
+- Implemented and optimised APIs upto 70% in Django framework.
+- Provided guidance to peers and involved in code reviews on regular basis.
+- Communicated technical concepts clearly to both technical and non-technical stakeholders, resulting in improved project understanding and smoother collaboration.
+- Participated in agile development processes, including daily stand-ups, sprint planning, and retrospectives.
+- Developed ETL processes to extract and integrate new data for analysis and reporting.
+- Fixed critical issues efficiently with limited time and modified functionalities according to client requirements.
 
-```markdown
-Syntax highlighted code block
+**Member of Technical Staff (Software Developer-Mobile Apps)| Metricstream Infotech India Pvt Ltd | Aug'2018 - Aug'2021**
+[MetricStream M7 - GRC App - iOS/Android Application](https://apps.apple.com/us/app/metricstream/id1436377546)
+- Closely collaborated with the Manager in designing the workflow of specific functionalities enhancing the user experience.
+- Developed features from the scratch in React Native App.
+- Integrated and customised libraries based on feature requirements.
+- Optimized app performance by analyzing and refactoring code, resulting in improvement by 80%.
+- Assisted in troubleshooting and resolving bugs.
+- Implemented responsive and user-friendly UI components based on design mockups.
+- Profoundly worked in maintaining and executing database operations as per requirements using Realm Database.
 
-# Header 1
-## Header 2
-### Header 3
+### Technical Skills
+Programming Languages : C , Python3, JavaScript, Node.JS, PHP
+Operating System : Windows, Linux, MacOS.
+Framework : React Native, Angular, Django
+Development Tools: VSCode, Xcode, Android Studio, Github/GitLab
+Database : MySQL, Realm, SQLite, OracleDB
+Skills: Data Structure, Data Algorithms, Networking(basic), React.js, Docker, D3.js, Webpack
 
-- Bulleted
-- List
+### Additional Projects
+**Industrial Equipment Analytics with Real-Time Monitoring | Next.js | Grafana Dashboard using Grafana APIs**
+- Collaborated with designer to build the web app from scratch based on requirements and provided Figma.
+- Libraries used - D3.js, Highcharts, Recharts
 
-1. Numbered
-2. List
+**Fitness App | R﻿eact Native App**
+- Mobile app that connects users to a network of nearby gyms, mark attendance, manage gym plans, and book the
+- personal training sessions etc.
 
-**Bold** and _Italic_ and `Code` text
+**VaccineTracker | R﻿eact App**
+- React Application which runs on the client-side and notifies as soon as the slot is available.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahildhussain/sahildhussain.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Automation ﻿ Libraries**
+- [ClickBOT](https://github.com/sahildhussain/simple_click_bot): Python click bot library for AdSense and other uses.
+- [LocaleConvert](https://github.com/sahildhussain/locale-convert): Library based on python to convert XML locale files into other language using google translate APIs.
