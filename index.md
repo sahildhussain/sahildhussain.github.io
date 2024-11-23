@@ -15,8 +15,7 @@ Proficient in front-end and back-end technologies, delivering high-quality solut
 - Developed ETL processes to extract and integrate new data for analysis and reporting.
 - Fixed critical issues efficiently with limited time and modified functionalities according to client requirements.
 
-**Member of Technical Staff (Software Developer-Mobile Apps)**
-**Metricstream Infotech Pvt Ltd | Aug'2018 - Aug'2021**
+**Member of Technical Staff (Mobile Apps) | Metricstream Infotech Pvt Ltd | Aug'18 - Aug'21**
 [MetricStream M7 - GRC App - iOS/Android Application](https://apps.apple.com/us/app/metricstream/id1436377546)
 - Closely collaborated with the Manager in designing the workflow of specific functionalities enhancing the user experience.
 - Developed features from the scratch in React Native App.
